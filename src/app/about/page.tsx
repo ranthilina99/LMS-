@@ -14,7 +14,7 @@ export default function AboutPage() {
           </p>
           <p className="text-lg text-muted-foreground mb-6">
             With a diverse range of courses taught by industry experts, we offer learning experiences that cater to
-            various interests and career paths. Whether you're looking to advance your career, explore a new hobby, or
+            various interests and career paths. Whether you&apos;re looking to advance your career, explore a new hobby, or
             gain cutting-edge skills, LearnHub has something for everyone.
           </p>
           <Link href="/courses">
@@ -74,4 +74,3 @@ export default function AboutPage() {
     </div>
   )
 }
-
