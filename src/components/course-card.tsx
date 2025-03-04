@@ -8,7 +8,7 @@ interface Course {
   id: string
   title: string
   instructor: string
-  image: string
+  image: string | StaticImageData
   price: number
   rating: number
   reviewCount: number
